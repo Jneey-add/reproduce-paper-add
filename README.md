@@ -1,4 +1,5 @@
-# Characterizing soil microbial communities in acidified forests in Nova Scotia using amplicon sequencing
-Our study used amplicon sequencing of the 16S rRNA and ITS2 genes for bacterial/archaeal and fungal identification to characterize the soil microbial communities in a chronically acidified forest in Nova Scotia treated or untreated with crushed limestone. 
-QIIME2 was used for processing raw sequencing files, the resulting exports are stored in QIIME2_exports. 
-An R-markdown file with all the code used to analyze the sequencing data including running statistical and differential tests is included here. Folders with the statistical and differential abundance test results are also included.
+# 利用扩增子测序分析新斯科舍省酸化森林土壤微生物群落特征
+本研究通过对16S rRNA和ITS2基因进行扩增子测序，分别鉴定细菌/古菌和真菌，以此分析新斯科舍省长期酸化森林的土壤微生物群落特征，研究对象包括施用和未施用粉碎石灰石的林地样本。
+ 测序原始文件采用QIIME2处理，处理后的导出文件存储于QIIME2_exports文件夹中。
+本文档还包含一份R-markdown文件，其中收录了用于测序数据分析的全部代码，包括统计检验和差异检验的运行代码；同时附有存放统计检验和差异丰度检验结果的文件夹。
+
